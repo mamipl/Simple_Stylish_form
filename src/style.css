@@ -1,0 +1,24 @@
+main {
+  
+}
+
+.label {
+  display: block;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+.input {
+  width: 150px;
+  display: block;
+  border-color: lime;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+.button {
+  text-transform: uppercase;
+  border-radius: 25px;
+  background: lime;
+  border: 0px;
+}
